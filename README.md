@@ -1,3 +1,9 @@
+# Reference
+
+[How to Convert Your Angular Application to a Native Mobile App (Android and iOS)]
+(https://betterprogramming.pub/how-to-convert-your-angular-application-to-a-native-mobile-app-android-and-ios-c212b38976df) 
+
+
 # AngularMobileApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
